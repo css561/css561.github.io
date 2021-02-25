@@ -84,3 +84,36 @@
 整理活动资料包：
 
 > 福柯《性经验史》（全）、亲密关系的变革、【世纪人文·世纪文库·西学部分】23性经验史_增、自亚当和夏娃以来：人类性行为的进化（美）马尔科姆·波茨、《臣服[BDSM]》、虐恋亚文化-李银河、【小说】淑女的眼泪
+
+### another：
+- 建立NAS影音库，利用docker，搭建jellyfin，利用vps+frp内网穿透方式实现公网访问** **
+- 硬件玩家，openwrt路由器系统，ios越狱，安卓xposed插件，黑苹果efi配置安装
+- 以结果导向发布弹跳训练教程获得的回复1267，发布相关图片进行内容丰富，回复解答相关问题
+ -利用Quip工具协同整理西方哲学史相关书目，进行协同讨论
+- 撰写风之旅人与死亡搁浅的评论发布在Wordpress blog上
+- 设计一个ARG（现实入侵游戏）在地铁里贴上各式引导标记，其中有解密要素，到一个桥拿一个邮件，里面有一张刻好的光盘，光盘里是一些手机记录的视频剪辑
+
+### tools：
+**work**：
+
+axure、light、marginnote3、OBS、evernote、石墨文档、notion、slack、vectornator
+
+**general**：
+
+subtitle studio、pushbullet、~~滴答清单~~、To-do、Instapaper、白描、telegram、timetree、nuzeel、Tor、SeeMusic Classi、Reeder、
+
+**fun**：
+
+捷径、微光、即刻、reddit、潮汐，[tunsflow](https://apps.apple.com/hk/app/tunesflow-music-player-with-equalizer/id700513526)、[movy](https://app.apple.com/hk/app/movy-高清桌面锁屏墙纸/id1093345142)、[拍照识花](https://apps.apple.com/hk/app/拍照识花/id1439881374)、[秘迹](https://apps.apple.com/hk/app/秘迹/id1404902971)、[手迹造字](https://apps.apple.com/hk/app/手迹造字-个人字库精品字体安装应用/id1190427931)、[小电台](https://apps.apple.com/hk/app/小电台/id1429932589)、[Mark电影清单](https://apps.apple.com/hk/app/mark-我的电影清单/id1070986365)、[Mansions-of-Madness](https://apps.apple.com/hk/app/mansions-of-madness/id1120754903)、[The Great Coffee App](https://apps.apple.com/hk/app/the-great-coffee-app/id534220544)、花匠、[LetSketch](https://apps.apple.com/hk/app/letsketch/id1234407734)、[Isometric](https://apps.apple.com/hk/app/isometric/id651972431)、[MEGA网盘](https://apps.apple.com/hk/app/mega/id706857885)
+
+### events
+- 参加机核网举办的witness线下沙龙分享
+- 参加参加机核网核聚变8周年活动
+- 参加ChinaJoy2018国际数字互娱展
+- 参加ABC在798开展的clut放映+对谈
+- 参加国内播客“优思迪吧”现场节目线下活动（志愿者）
+- 参加李厚辰“万智牌 一种表达”居住空间室内桌游展
+- 参加央美2019毕业生作品展
+- 参加陈嘉映讲座：说理与理解
+- 参加DICE CON 2019国际桌游戏展
+- 参加“NETIZEN 21” 第四届网络社会年会
