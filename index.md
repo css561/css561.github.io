@@ -11,7 +11,7 @@
 - 博客：https://smaller.home.blog
 
 ### 经历
-#### 【春节不回家 | 遍历春天的放映就在你不听、不看、不说的时候】（2021.2）
+#### [【春节不回家 | 遍历春天的放映就在你不听、不看、不说的时候】（2021.2）](https://www.douban.com/event/34027135/)
 活动主理 策划
 
 **描述:**
@@ -29,7 +29,7 @@
 - 活动期内开设线上直播间播放当日放映的片单，供群内未能到场人员观看
 - 活动结束后更新之后的活动说明，将未来的计划和设想作以表述，定位为以线下放映为主的社交社群，并将种子用户作为bug的发现者和热心参与者尽心维护
 
-#### 线上共读会（2019.4）
+#### [线上共读会（2019.4）](https://shimo.im/sheets/8KHV4hyRw0Mu0yiD/MODOC)
 组织者 导读编辑
 
 **描述:**
@@ -44,7 +44,7 @@
 
 书籍导读整理；对要进行共读的书籍进行导读文章的编辑，在一个月时间内完成组内的导读编辑，申请他组帮助加快项目进度，用安卓语音转文字TTS服务、ios辅助朗读、win10语音识别全平台方案。在通勤和其它时间内加快阅读整理速度，并利用deepl翻译了一些难度较大的文档。
 
-#### Beta1.0｜望京生活实验室“生活宴”「It's a Wonderful Life」（2019.8）
+#### [Beta1.0｜望京生活实验室“生活宴”「It's a Wonderful Life」（2019.8）](https://www.douban.com/event/32649837/)
 活动主理
 
 **描述:**
@@ -71,7 +71,7 @@
 - 定期发布端传媒影评文章，发布#话题，讨论影视内话题，分享优质资源与渠道，达成良好的留存率&活跃度80%，用户流失5%。
 - 开展topic放映，对时下流行影片《寄生虫》、《小丑》等影片进行放映和交流，并在映后请空间内影视文化研究者撰写一篇对《寄生虫》的影评，在撰写人学术圈内得到好评。 
 
-#### 「束缚中解放」线下交流活动（2019.7）
+#### 【「束缚中解放」线下交流活动（2019.7）】（https://mp.weixin.qq.com/s/4EKqRjNFkMIRnObhfbf_Kw）
 主持人
 
 **描述:**
@@ -106,13 +106,12 @@ subtitle studio、pushbullet、~~滴答清单~~、To-do、Instapaper、白描、
 捷径、微光、即刻、reddit、潮汐，[tunsflow](https://apps.apple.com/hk/app/tunesflow-music-player-with-equalizer/id700513526)、[movy](https://app.apple.com/hk/app/movy-高清桌面锁屏墙纸/id1093345142)、[拍照识花](https://apps.apple.com/hk/app/拍照识花/id1439881374)、[秘迹](https://apps.apple.com/hk/app/秘迹/id1404902971)、[手迹造字](https://apps.apple.com/hk/app/手迹造字-个人字库精品字体安装应用/id1190427931)、[小电台](https://apps.apple.com/hk/app/小电台/id1429932589)、[Mark电影清单](https://apps.apple.com/hk/app/mark-我的电影清单/id1070986365)、[Mansions-of-Madness](https://apps.apple.com/hk/app/mansions-of-madness/id1120754903)、[The Great Coffee App](https://apps.apple.com/hk/app/the-great-coffee-app/id534220544)、花匠、[LetSketch](https://apps.apple.com/hk/app/letsketch/id1234407734)、[Isometric](https://apps.apple.com/hk/app/isometric/id651972431)、[MEGA网盘](https://apps.apple.com/hk/app/mega/id706857885)
 
 ### events
-- 参加机核网举办的witness线下沙龙分享
-- 参加参加机核网核聚变8周年活动
-- 参加ChinaJoy2018国际数字互娱展
+- [参加参加机核网核聚变8周年活动](https://www.gcores.com/articles/98265)
+- [参加ChinaJoy2018国际数字互娱展](http://2019.chinajoy.net/News/Detail?Id=1667)
 - 参加ABC在798开展的clut放映+对谈
 - 参加国内播客“优思迪吧”现场节目线下活动（志愿者）
 - 参加李厚辰“万智牌 一种表达”居住空间室内桌游展
-- 参加央美2019毕业生作品展
-- 参加陈嘉映讲座：说理与理解
-- 参加DICE CON 2019国际桌游戏展
-- 参加“NETIZEN 21” 第四届网络社会年会
+- [参加央美2019毕业生作品展](https://www.zcool.com.cn/work/ZMzY0NTU5MzI=.html)
+- [参加陈嘉映讲座：说理与理解](https://cnu.edu.cn/xzhd/161850.htm)
+- [参加DICE CON 2019国际桌游戏展](https://www.facebook.com/events/全国农业展览馆/第五届北京国际桌面游戏展-dice-con-2019/1286806321486866/)
+- [参加“NETIZEN 21” 第四届网络社会年会](https://www.caa-ins.org/archives/5895/2)
