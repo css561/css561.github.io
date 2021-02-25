@@ -6,9 +6,8 @@
 
 ### 个人信息
 - 姓名：肖锐
-- 学历：硕士
-- 工作年限：2-5年
 - 博客：https://smaller.home.blog
+- 豆瓣：https://www.douban.com/people/css561/
 
 ### 经历
 #### [【春节不回家 | 遍历春天的放映就在你不听、不看、不说的时候】（2021.2）](https://www.douban.com/event/34027135/)
@@ -72,6 +71,8 @@
 - 开展topic放映，对时下流行影片《寄生虫》、《小丑》等影片进行放映和交流，并在映后请空间内影视文化研究者撰写一篇对《寄生虫》的影评，在撰写人学术圈内得到好评。 
 
 #### 「束缚中解放」线下交流活动（2019.7）
+![ ](https://lh3.googleusercontent.com/6DtycEtRxcN8xn2NBzEBZ9GwNZzvLue5zRF8lBT-mVd08mqTR3jtZ2VU30Md0xZ2Q6XwDCfMug6vmKbDV9N5jqTBHTE3jx8kV0km2WNRlQ=s336)
+
 主持人
 
 **描述:**
