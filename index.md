@@ -85,6 +85,12 @@
 
 > 福柯《性经验史》（全）、亲密关系的变革、【世纪人文·世纪文库·西学部分】23性经验史_增、自亚当和夏娃以来：人类性行为的进化（美）马尔科姆·波茨、《臣服[BDSM]》、虐恋亚文化-李银河、【小说】淑女的眼泪
 
+#### [波普罗岛桌游](https://www.youtube.com/watch?v=cWsg4YDXXbs)
+桌游设计；
+参与建立桌游的世界观架构，对桌游进行产品原型的测试，规则修改、简化，完成在杭州、广州的核聚变Lite桌游推广工作
+![ ](https://lh3.googleusercontent.com/EnJZHioIyQ72Dx6JCgoBwiKarqBezgsD95qdR90U8xHdAx9wA1n2w5BPjO3FcX6RYonrv17fIE_1vY8QhkJ8jLooKC4jFTUcfQDqWOk=s256)
+！[ ](https://lh3.googleusercontent.com/Ecnik0jSSaoR9ZZOkHyd_LAsdr5GykZ6uSD7W2Jo4t_wqEGAF8WShmH_TOvT21I9seb2kqH5vZfshBfOpnMs4Yr5Dqf49cFjuzd7-I-hlw=s192)
+
 ### another：
 - 建立NAS影音库，利用docker，搭建jellyfin，利用vps+frp内网穿透方式实现公网访问** **
 - 硬件玩家，openwrt路由器系统，ios越狱，安卓xposed插件，黑苹果efi配置安装
