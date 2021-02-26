@@ -1,11 +1,11 @@
-## css561的个人简历
+Smaller的个人简历
 ### 联系方式
 - 📱：18234034558
 - 📧：smaller@artday.me
 - 北京-望京
 
 ### 个人信息
-- 姓名：肖锐
+ 姓名：肖锐
 - 博客：[smaller.blog](https://smaller.home.blog)
 - 豆瓣：[css561](https://www.douban.com/people/css561)
 
