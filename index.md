@@ -6,8 +6,8 @@
 
 ### 个人信息
 - 姓名：肖锐
-- 博客：https://smaller.home.blog
-- 豆瓣：https://www.douban.com/people/css561/
+- 博客：[smaller.blog](https://smaller.home.blog)
+- 豆瓣：[css561](https://www.douban.com/people/css561)
 
 ### 经历
 #### [【春节不回家 | 遍历春天的放映就在你不听、不看、不说的时候】（2021.2）](https://www.douban.com/event/34027135/)
