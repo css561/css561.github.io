@@ -1,4 +1,4 @@
-Smaller的个人简历
+## Smaller的个人简历
 ### 联系方式
 - 📱：18234034558
 - 📧：smaller@artday.me
